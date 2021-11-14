@@ -3,7 +3,7 @@ Supervised Learning by  Heart Attack Classifications
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Diagram_of_the_human_heart_%28cropped%29.svg/611px-Diagram_of_the_human_heart_%28cropped%29.svg.png)
 
-Heart.csv - is data source https://archive.ics.uci.edu/ml/datasets/Heart+Disease 
+Heart.csv - is data from  https://archive.ics.uci.edu/ml/datasets/Heart+Disease 
 
 
 # About The Dataset
