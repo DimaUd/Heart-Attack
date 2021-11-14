@@ -1,2 +1,2 @@
-# Heart-Attack-
+# Heart-Attack
 Supervised Learning by  Heart Attack Classifications
