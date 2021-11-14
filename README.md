@@ -6,10 +6,10 @@ Supervised Learning by  Heart Attack Classifications
 Heart.csv - is data source https://archive.ics.uci.edu/ml/datasets/Heart+Disease 
 
 
-About The Dataset
-Age : Age of the patient
-Sex : Sex of the patient (1 = male, 0 = female)
-exang: exercise induced angina (1 = yes; 0 = no)
+*About The Dataset
+## Age : Age of the patient
+## Sex : Sex of the patient (1 = male, 0 = female)
+## exang: exercise induced angina (1 = yes; 0 = no)
 ca: number of major vessels (0-3)
 cp : Chest Pain type chest pain type
 Value 1: typical angina
