@@ -6,7 +6,7 @@ Supervised Learning by  Heart Attack Classifications
 Heart.csv - is data source https://archive.ics.uci.edu/ml/datasets/Heart+Disease 
 
 
-** About The Dataset
+# About The Dataset
 ###   Age : Age of the patient
 ###   Sex : Sex of the patient (1 = male, 0 = female)
 ###   exang: exercise induced angina (1 = yes; 0 = no)
@@ -24,4 +24,4 @@ Heart.csv - is data source https://archive.ics.uci.edu/ml/datasets/Heart+Disease
 ###   Value 1: having ST-T wave abnormality (T wave inversions and/or ST elevation or depression of > 0.05 mV)
 ###   Value 2: showing probable or definite left ventricular hypertrophy by Estes' criteria
 ###   thalach : maximum heart rate achieved
-###   target : 0 = less chance of heart attack, 1 = more chance of heart attack**
+###   target : 0 = less chance of heart attack, 1 = more chance of heart attack
