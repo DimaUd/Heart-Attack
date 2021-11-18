@@ -28,6 +28,7 @@ Heart.csv - is data from  https://archive.ics.uci.edu/ml/datasets/Heart+Disease
 
 
 ===================================================================================
+#### 
 Important issues for my opinion when applying KNN  algorithm:
 - Mixed data types (categorical and numerical)
   so the issue is how we can make in right way data preperation, how we can get from our data all information in the right way
