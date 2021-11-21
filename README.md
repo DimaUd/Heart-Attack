@@ -39,4 +39,5 @@ Important issues for my opinion when applying KNN  algorithm:
  The data is first divided into pure numerical and pure binary features,<br />
  specifc distances are then applied  to the numerical and binary features,<br />
  and the result of the two distances is assembled into one single distance using a weighted average to form the combined distance value.<br />
- 
+### Conclusion  combining the results of numerical and binary similarity measures is a promising method to get better results than just using one single measure
+### k-NN with Manhattan distance performs reasonably well over all heterogeneous data sets compared to k-NN with Euclidean distance.
