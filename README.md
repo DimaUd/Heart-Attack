@@ -34,7 +34,7 @@ Important issues for my opinion when applying KNN  algorithm:
   so the issue is how we can make in right way data preperation, how we can get from our data all information in the right way
   some sources about this:
   # 
- Evaluation of k‑nearest neighbour classifer performance for heterogeneous data sets <br />
+ ### Evaluation of k‑nearest neighbour classifer performance for heterogeneous data sets <br />
  https://link.springer.com/content/pdf/10.1007/s42452-019-1356-9.pdf:<br />
  The data is first divided into pure numerical and pure binary features,<br />
  specifc distances are then applied  to the numerical and binary features,<br />
